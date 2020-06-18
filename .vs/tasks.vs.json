@@ -1,0 +1,45 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-users",
+      "appliesTo": "src/components/users/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-users",
+      "appliesTo": "src/components/users/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-users",
+      "appliesTo": "src/components/users/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-users",
+      "appliesTo": "src/components/users/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-users",
+      "appliesTo": "src/components/users/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-users",
+      "appliesTo": "src/components/users/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-users",
+      "appliesTo": "src/components/users/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-users",
+      "appliesTo": "src/components/users/",
+      "type": "launch"
+    }
+  ]
+}
